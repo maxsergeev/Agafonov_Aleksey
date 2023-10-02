@@ -1,1 +1,2 @@
-Just added new line
+Again modified first line
+This is second line in main branch
