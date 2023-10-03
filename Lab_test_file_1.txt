@@ -1,1 +1,2 @@
-Just added new line
+Just modified first line
+And created second line 
