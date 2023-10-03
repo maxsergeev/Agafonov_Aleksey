@@ -1,2 +1,2 @@
-Again modified first line
-This is second line in main branch
+Merged first line
+Merged second line 
