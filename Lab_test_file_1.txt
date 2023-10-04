@@ -1,2 +1,4 @@
 Merged first line
 Merged second line 
+Added third line
+Added fourth line
